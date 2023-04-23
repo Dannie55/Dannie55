@@ -2,8 +2,6 @@
 Hi, I'm Daniel! 
 </h1>
 
-![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
-
 ![](https://komarev.com/ghpvc/?username=Dannie55&color=blue)
 
 <a href="https://twitter.com/Dan_hiel55/" alt="twitter"><img src="https://img.shields.io/twitter/follow/Dan_hiel55?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
