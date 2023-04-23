@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Daniel! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+Hi, I'm Daniel! 
 </h1>
 
 ![image](https://user-images.githubusercontent.com/105589308/188779708-53476cd5-9a8e-44b1-8350-565974aa35f9.png)
