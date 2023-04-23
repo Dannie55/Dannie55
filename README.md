@@ -2,10 +2,6 @@
 Hi, I'm Daniel! 
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Dannie55&color=blue)
-
-<a href="https://twitter.com/Dan_hiel55/" alt="twitter"><img src="https://img.shields.io/twitter/follow/Dan_hiel55?color=1DA1F2&logo=twitter&style=for-the-badge" /></a>
-
 ### I gladly ✨ _welcome_ ✨ you to my GitHub profile. ###
 
 Here are some ideas to get you started:
