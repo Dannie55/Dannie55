@@ -60,8 +60,7 @@ Hey there! :smile: My name is Daniel. I'm a 25-year-old Frontend Developer from 
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=wh
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=
+
 
 <hr/>
 
